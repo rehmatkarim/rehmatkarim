@@ -24,7 +24,7 @@ My main purpose is to push your expectations to the highest limit and create a p
 <a href="https://github.com/rehmatkarim/">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatkarim&show_icons=true&theme=Gradient>" />
-nvoychat" />
+
 </a>
   
 
