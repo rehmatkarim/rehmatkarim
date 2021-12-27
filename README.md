@@ -17,8 +17,15 @@ I'm confident about showing skills to create results that will impact someone's 
 
 My main purpose is to push your expectations to the highest limit and create a product that you've dreamed.I have worked on complex projects previously and got an understanding of how to plan an architecture for projects flexible for changes, reusable code, bug-free, and tests covered. Efficiently work with GIT, docker and deal with different task managers.Closely collaborate with designers and other developers to develop the best products for users. Open to new knowledge as well as fast-learner.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rehmatkarim&show_icons=true&theme=Gradient>" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatkarim&show_icons=true&theme=Gradient>" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rehmatkarim&show_icons=true&theme=Gradient>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatkarim&show_icons=true&theme=Gradient>" /> -->
+
+<a href="https://github.com/rehmatkarim/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmatkarim&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/rehmatkarim/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmatkarim&repo=convoychat" />
+</a>
   
 
 
